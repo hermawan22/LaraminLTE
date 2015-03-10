@@ -18,9 +18,9 @@
 <body class="skin-blue">
 <div class="wrapper">
 
-    @include('backend.partials.nav')
+    @include('backend._partials.nav')
 
-    @include('backend.partials.sidebar')
+    @include('backend._partials.sidebar')
 
     <!-- Content Wrapper. Contains page content -->
     <div class="content-wrapper">
